@@ -1,7 +1,3 @@
-<div align="center">
-<img src="img/OpenCore-Logo-bg.png">
-</div>
-
 # EFI - Hackintosh - X99H - RX 5500 XT
 
 <div align="center">
