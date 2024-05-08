@@ -1,10 +1,20 @@
-# EFI-Hackintosh-X99H-PR9-RX5500XT
-**VENTURA**
+<div align="center">
+<img src="img/OpenCore-Logo-bg.png">
+</div>
+
+# EFI - Hackintosh - X99H - RX 5500 XT
+
+<div align="center">
+<img src="img/macOS.png">
+<img src="img/neofetch.png">
+</div>
+
+**OpenCore 0.9.9**
 
 ## Introdution
-This is the Hackintosh EFI Folder for MACHINIST X99H PR9 - XEON E5 2650 V4 - RX 5500 XT. The configuration settings support MacOS Ventura (I updated to Sonoma directly through the system itself and it worked perfectly).
+This is the Hackintosh EFI Folder for MACHINIST X99H - XEON E5 2650 V4 - RX 5500 XT. The configuration settings support MacOS Ventura (I updated to Sonoma directly through the system itself and it worked perfectly).
 
-ALC897 Working perfectly.
+*ALC897 Working perfectly.*
 
 ## Hardware Specs
 * **Desktop Computer**: MACHINIST X99H PR9
@@ -23,6 +33,6 @@ ALC897 Working perfectly.
 * Partly Sleep & Wakeup
 
 ## BIOS Settings
-* CSM: ***Disabled*** (UEFI MODE ON)
+* CSM: ***Disabled*** *(UEFI MODE ON)*
 * System Configuration → SATA Operation: ***AHCI***
 * Secure Boot → Secure Boot Enable: ***Disabled***
